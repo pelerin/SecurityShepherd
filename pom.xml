@@ -19,7 +19,7 @@
 		<dependency>
 			<groupId>com.onelogin</groupId>
 			<artifactId>java-saml</artifactId>
-			<version>2.5.0</version>
+			<version>2.6.0</version>
 		</dependency>
 		<dependency>
 			<groupId>de.mkammerer</groupId>
@@ -54,13 +54,13 @@
 		<dependency>
 			<groupId>commons-codec</groupId>
 			<artifactId>commons-codec</artifactId>
-			<version>1.6</version>
+			<version>1.13</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/org.jsoup/jsoup -->
 		<dependency>
 			<groupId>org.jsoup</groupId>
 			<artifactId>jsoup</artifactId>
-			<version>1.8.2</version>
+			<version>1.8.3</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/net.sf.jtidy/jtidy -->
 		<dependency>
